@@ -53,7 +53,7 @@ document.write("<br />");
 
 ```
 
-You can see this is action at [https://rhildred.github.io/javascriptscripting/youpassed.html](https://rhildred.github.io/javascriptscripting/youpassed.html). This is mildly interesting, but to change the message that appears, you need to edit the code.  What we really need to do  is code it once, then anyone can figure out their passing or failing status.
+You can see this in action at  [https://rhildred.github.io/javascriptscripting/youpassed.html](https://rhildred.github.io/javascriptscripting/youpassed.html). This is mildly interesting, but to change the message that appears, you need to edit the code.  What we really need to do  is code it once, then anyone can figure out their passing or failing status.
 
 ##Selection with a user interface
 

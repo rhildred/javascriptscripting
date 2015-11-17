@@ -11,7 +11,7 @@
   });
 </script>
 <form ng-app="myApp" ng-controller="myCtrl">
-<label>Input test score</label><input ng-bind="score" />
+<label>Input test score</label><input ng-model="score" />
 <button ng-click="calculate()">Get Status</button>
 <p>{{message}}</p>
 </form>

@@ -36,7 +36,7 @@ while(x < 100){
 </script>
 ```
 
-You can see this is action at [https://rhildred.github.io/javascriptscripting/ilovevivas.html](https://rhildred.github.io/javascriptscripting/ilovevivas.html). Of course this is much faster than me typing this over and over.
+You can see this in action at [https://rhildred.github.io/javascriptscripting/ilovevivas.html](https://rhildred.github.io/javascriptscripting/ilovevivas.html). Of course this is much faster than me typing this over and over.
 
 ##Selection
 
@@ -89,4 +89,4 @@ Angular lets us link the event of clicking the button, declared in our form, to 
 </form>
 ```
 
-You can see this is action at [https://rhildred.github.io/javascriptscripting/youpassed.html](https://rhildred.github.io/javascriptscripting/youpassed.html). The whole repository is viewable at [https://github.com/rhildred/javascriptscripting](https://github.com/rhildred/javascriptscripting) Everything that begins with ng- or {{ links javascript code to the html elements. This is a powerful technique for adding a user interface to our programs. Happy Coding!!!
+You can see this in action at  [https://rhildred.github.io/javascriptscripting/youpassed.html](https://rhildred.github.io/javascriptscripting/youpassed.html). The whole repository is viewable at [https://github.com/rhildred/javascriptscripting](https://github.com/rhildred/javascriptscripting) Everything that begins with ng- or {{ links javascript code to the html elements. This is a powerful technique for adding a user interface to our programs. Happy Coding!!!

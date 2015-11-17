@@ -2,12 +2,16 @@
 <script>
   angular.module("myApp", []).controller("myCtrl", function ($scope) {
     $scope.calculate = function(){
-      alert(" in angular now");
+      if($scope.score > 55){
+        $scope.message = "you passed!"
+      }else{
+        $scope.message = "you failed";
+      }
     }
   });
 </script>
 <form ng-app="myApp" ng-controller="myCtrl">
-<label>Input test score</label><input />
+<label>Input test score</label><input ng-bind="score" />
 <button ng-click="calculate()">Get Status</button>
-<p>You passed!</p>
+<p>{{message}}</p>
 </form>
